@@ -36,6 +36,21 @@ namespace PlataformaAmenazas.API.Controllers
         }
 
         [HttpGet]
+        [Route("AmenazasMasActivas/{cant}")]
+        public IActionResult GetAmenazas(int cant)
+        {
+            var repo = new AmenazasRepository(db);
+            var result = repo.GetAllAmenazas();
+
+            var summary = result
+            .OrderByDescending(t => t.cantidad)
+            .Take(cant)
+            .ToList();
+
+            return Ok(summary.OrderBy(x => x.amenaza));
+        }
+
+        [HttpGet]
         [Route("VulnerabilidadesMasActivas")]
         public IActionResult GetVulnerabilidades()
         {
@@ -46,6 +61,21 @@ namespace PlataformaAmenazas.API.Controllers
             .OrderByDescending(t => t.cantidad)
             .Take(6)
             .Select(x => new VulnerabilidadesDTO { vulnerabilidad = x.vulnerabilidad, cantidad = x.cantidad })
+            .ToList();
+
+            return Ok(summary.OrderBy(x => x.vulnerabilidad));
+        }
+
+        [HttpGet]
+        [Route("VulnerabilidadesMasActivas/{cant}")]
+        public IActionResult GetVulnerabilidades(int cant)
+        {
+            var repo = new AmenazasRepository(db);
+            var result = repo.GetAllVulnerabilidades();
+
+            var summary = result
+            .OrderByDescending(t => t.cantidad)
+            .Take(cant)
             .ToList();
 
             return Ok(summary.OrderBy(x => x.vulnerabilidad));

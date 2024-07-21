@@ -151,3 +151,4 @@ C:\Workdir\JOSE HERNANDEZ\API\PlataformaAmenazasAPI\PlataformaAmenazas.API\obj\R
 C:\Workdir\JOSE HERNANDEZ\API\PlataformaAmenazasAPI\PlataformaAmenazas.API\obj\Release\net8.0\PlataformaAmenazas.API.pdb
 C:\Workdir\JOSE HERNANDEZ\API\PlataformaAmenazasAPI\PlataformaAmenazas.API\obj\Release\net8.0\PlataformaAmenazas.API.genruntimeconfig.cache
 C:\Workdir\JOSE HERNANDEZ\API\PlataformaAmenazasAPI\PlataformaAmenazas.API\obj\Release\net8.0\ref\PlataformaAmenazas.API.dll
+C:\Workdir\JOSE HERNANDEZ\API\PlataformaAmenazasAPI\PlataformaAmenazas.API\bin\Release\net8.0\appsettings.Production.json
