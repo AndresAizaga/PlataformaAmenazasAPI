@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PlataformaAmenazas.API.props" />
+</Project>

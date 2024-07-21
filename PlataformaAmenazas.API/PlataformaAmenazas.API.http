@@ -1,0 +1,6 @@
+@PlataformaAmenazas.API_HostAddress = http://localhost:5183
+
+GET {{PlataformaAmenazas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

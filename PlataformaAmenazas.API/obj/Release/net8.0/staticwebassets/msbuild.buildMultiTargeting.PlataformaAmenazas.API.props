@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PlataformaAmenazas.API.props" />
+</Project>
