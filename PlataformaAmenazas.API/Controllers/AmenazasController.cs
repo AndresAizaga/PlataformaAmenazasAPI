@@ -2,6 +2,7 @@
 using PlataformaAmenazas.API.Controllers.DTO;
 using PlataformaAmenazas.API.Infraestructure;
 using PlataformaAmenazas.API.Infraestructure.Repository;
+using System.Text;
 using System.Threading;
 
 namespace PlataformaAmenazas.API.Controllers
@@ -80,6 +81,35 @@ namespace PlataformaAmenazas.API.Controllers
             .ToList();
 
             return Ok(summary);
+        }
+
+        [HttpGet]
+        [Route("ActualizarAPIsOpenCTI")]
+        public IActionResult ActualizarAPIsOpenCTI()
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.Append("APIs actualizadas exitosamente");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/threats");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/incidents");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/geo");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/traffic");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/vulnerabilities");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/reports");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/behavior");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/access");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/intrusions");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/events");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/logs");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/suspicious_activity");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/malicious_activity");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/network_traffic");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/threat_detection");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/vuln_analysis");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/app_security");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/network_security");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/continuous_monitoring");
+            stringBuilder.Append("https://api.integrations.v1.opencti.io/risk_analysis");
+            return Ok(stringBuilder);
         }
     }
 }

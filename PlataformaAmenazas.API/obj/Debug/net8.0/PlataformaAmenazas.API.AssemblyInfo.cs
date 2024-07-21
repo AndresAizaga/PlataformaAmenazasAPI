@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlataformaAmenazas.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d61c65640673316db305b9c9ac6256cc950ef9ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlataformaAmenazas.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlataformaAmenazas.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

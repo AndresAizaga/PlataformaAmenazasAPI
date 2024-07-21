@@ -1,73 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\",
+  "WorkspaceRootPath": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\controllers\\amenazascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\controllers\\amenazascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\controllers\\amenazascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\controllers\\dto\\clasesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\.github\\workflows\\PlataformaAmenazasAPI20240720234428.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\PlataformaAmenazasAPI20240720234428.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\plataformaamenazas.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\plataformaamenazas.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\controllers\\dto\\clasesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\controllers\\dto\\clasesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\infraestructure\\plataformacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\infraestructure\\plataformacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\infraestructure\\plataformacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\infraestructure\\config\\vulnerabilidadesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\infraestructure\\config\\vulnerabilidadesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\infraestructure\\config\\vulnerabilidadesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\infraestructure\\repository\\amenazasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\infraestructure\\repository\\amenazasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\infraestructure\\repository\\amenazasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\infraestructure\\config\\ataquesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\infraestructure\\config\\ataquesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\infraestructure\\config\\ataquesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\infraestructure\\config\\intrusionesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\infraestructure\\config\\intrusionesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\infraestructure\\config\\intrusionesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\infraestructure\\config\\amenazasconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\infraestructure\\config\\amenazasconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\infraestructure\\config\\amenazasconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\infraestructure\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\infraestructure\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\infraestructure\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\domain\\entities\\amenazas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\domain\\entities\\amenazas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\domain\\entities\\amenazas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\domain\\entities\\vulnerabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\domain\\entities\\vulnerabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\domain\\entities\\vulnerabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\domain\\entities\\intrusiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\domain\\entities\\intrusiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\domain\\entities\\intrusiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazas.api\\plataformaamenazas.api\\domain\\entities\\ataques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|c:\\workdir\\jose hernandez\\api\\plataformaamenazasapi\\plataformaamenazas.api\\domain\\entities\\ataques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2272A1C6-7B08-4A14-8498-9C6B1BA2A5C3}|PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj|solutionrelative:plataformaamenazas.api\\domain\\entities\\ataques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,224 +102,233 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VulnerabilidadesConfig.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T00:37:29.663Z",
+              "DocumentIndex": 1,
+              "Title": "PlataformaAmenazasAPI20240720234428.yml",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\.github\\workflows\\PlataformaAmenazasAPI20240720234428.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\PlataformaAmenazasAPI20240720234428.yml",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\.github\\workflows\\PlataformaAmenazasAPI20240720234428.yml",
+              "RelativeToolTip": ".github\\workflows\\PlataformaAmenazasAPI20240720234428.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-21T04:46:28.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlataformaAmenazas.API",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
+              "RelativeToolTip": "PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T04:39:40.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AmenazasController.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Controllers\\AmenazasController.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Controllers\\AmenazasController.cs",
               "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Controllers\\AmenazasController.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Controllers\\AmenazasController.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Controllers\\AmenazasController.cs",
               "RelativeToolTip": "PlataformaAmenazas.API\\Controllers\\AmenazasController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAFEAAAAfAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAiwG0AAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-20T23:34:05.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "VulnerabilidadesConfig.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\VulnerabilidadesConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:37:29.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ClasesDTO.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Controllers\\DTO\\ClasesDTO.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Controllers\\DTO\\ClasesDTO.cs",
               "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Controllers\\DTO\\ClasesDTO.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Controllers\\DTO\\ClasesDTO.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Controllers\\DTO\\ClasesDTO.cs",
               "RelativeToolTip": "PlataformaAmenazas.API\\Controllers\\DTO\\ClasesDTO.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAIwBYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T00:44:54.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AtaquesConfig.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T00:38:49.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlataformaContext.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBYAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:17:40.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AmenazasRepository.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:30:03.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IntrusionesConfig.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T00:38:14.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T00:44:54.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AmenazasConfig.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Title": "AtaquesConfig.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\AtaquesConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:39:21.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T00:38:49.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceExtension.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABfAAAA",
+              "DocumentIndex": 4,
+              "Title": "PlataformaContext.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\PlataformaContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBYAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:19:10.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T23:17:40.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AmenazasRepository.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Repository\\AmenazasRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:30:03.539Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\appsettings.json",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\appsettings.json",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\appsettings.json",
-              "RelativeToolTip": "PlataformaAmenazas.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-20T23:21:13.724Z",
-              "EditorCaption": ""
+              "Title": "IntrusionesConfig.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\IntrusionesConfig.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T00:38:14.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Program.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Program.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Program.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Program.cs",
+              "DocumentIndex": 9,
+              "Title": "AmenazasConfig.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\Config\\AmenazasConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:20:05.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T23:39:21.836Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\WeatherForecast.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Infraestructure\\ServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:46:16.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T23:19:10.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\appsettings.json",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\appsettings.json",
+              "RelativeToolTip": "PlataformaAmenazas.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T23:21:13.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Amenazas.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAbAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Program.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Program.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Program.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:09:58.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T23:20:05.477Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\appsettings.Development.json",
-              "RelativeToolTip": "PlataformaAmenazas.API\\appsettings.Development.json",
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\WeatherForecast.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-20T23:21:17.318Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:46:16.485Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Vulnerabilidades.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Title": "Amenazas.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Domain\\Entities\\Amenazas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:14:35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T23:09:58.913Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Intrusiones.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
-              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
-              "RelativeToolTip": "PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:14:10.692Z",
-              "EditorCaption": ""
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\appsettings.Development.json",
+              "RelativeToolTip": "PlataformaAmenazas.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T23:21:17.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Vulnerabilidades.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Domain\\Entities\\Vulnerabilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:14:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Intrusiones.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
+              "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
+              "RelativeToolTip": "PlataformaAmenazas.API\\Domain\\Entities\\Intrusiones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:14:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Ataques.cs",
-              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Ataques.cs",
+              "DocumentMoniker": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Ataques.cs",
               "RelativeDocumentMoniker": "PlataformaAmenazas.API\\Domain\\Entities\\Ataques.cs",
-              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\Domain\\Entities\\Ataques.cs",
+              "ToolTip": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\Domain\\Entities\\Ataques.cs",
               "RelativeToolTip": "PlataformaAmenazas.API\\Domain\\Entities\\Ataques.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T23:12:42.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T23:12:42.817Z"
             }
           ]
         }

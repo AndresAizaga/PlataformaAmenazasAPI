@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj": {}
+    "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj": {}
   },
   "projects": {
-    "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj": {
+    "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
+        "projectUniqueName": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
         "projectName": "PlataformaAmenazas.API",
-        "projectPath": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
+        "projectPath": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\PlataformaAmenazas.API.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazas.API\\PlataformaAmenazas.API\\obj\\",
+        "outputPath": "C:\\Workdir\\JOSE HERNANDEZ\\API\\PlataformaAmenazasAPI\\PlataformaAmenazas.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
