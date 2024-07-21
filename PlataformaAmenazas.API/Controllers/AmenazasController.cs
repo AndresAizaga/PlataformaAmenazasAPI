@@ -90,7 +90,7 @@ namespace PlataformaAmenazas.API.Controllers
 
             var summary = result
             .OrderBy(t => t.intrusion)
-            .Select(x => new IntrusionesDTO { intrusion = x.intrusion, cantidad = x.cantidad })
+            //.Select(x => new IntrusionesDTO { intrusion = x.intrusion, cantidad = x.cantidad })
             .Take(6)
             .ToList();
 
@@ -106,7 +106,7 @@ namespace PlataformaAmenazas.API.Controllers
 
             var summary = result
             .OrderBy(t => t.ataque)
-            .Select(x => new AtaquesDTO { ataque = x.ataque, cantidad = x.cantidad })
+            //.Select(x => new AtaquesDTO { ataque = x.ataque, cantidad = x.cantidad })
             .Take(6)
             .ToList();
 
